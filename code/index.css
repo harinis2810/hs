@@ -1,0 +1,58 @@
+.nav{
+    background-color:#CCCCFF;
+    overflow:hidden;
+    margin:5px;
+     border: 5px solid #6868D3 ;
+    
+    
+}
+.nav a {
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 34px 26px;
+  text-decoration: none;
+  font-size: 27px;
+}
+.nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.logo{
+width: 200px;
+height: 100px;
+border-radius: 40px;
+overflow: hidden;
+float: left;
+}
+.bg-img {
+background-image: url("coss.JPG");
+min-height: 1000px;
+margin: 5px  ;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+border: 5px solid #db7093 ;
+}
+.style1{
+    text-align:center;
+    margin:20px;
+font-family: 'Merriweather', serif;
+font-size:3em;
+}
+.style2{
+    text-align:center;
+    margin:10px;
+font-family: 'Grechen Fuemen', cursive;
+font-size:3em;
+}
+.style3{
+    text-align:center;
+    margin:10px;    
+    font-family: 'Merriweather', serif;
+    font-size:3em;
+}
+.calm{
+    margin:220px;
+}
